@@ -10,3 +10,5 @@ https://www.kaggle.com/c/homesite-quote-conversion
 https://www.kaggle.com/c/rossmann-store-sales
 https://www.kaggle.com/c/telstra-recruiting-network
 aaannd... of course, all the Santander ones.
+
+https://seaborn.pydata.org/generated/seaborn.regplot.html
