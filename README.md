@@ -83,3 +83,32 @@ https://lnkd.in/gKvSnjy
 
 Binary Networks for Computer Vision: IEEE CVPR 2021 Workshop
 https://lnkd.in/gWD3CXN
+
+
+
+Some Recent Data Science, Deep Learning and Computer Vision Courses | 2021
+Deep Learning for Computer Vision (DL4CV) by WIAC, Spring 2021
+https://lnkd.in/g4_fscc
+DS-GA 1013/Math-GA 2824: Mathematical Tools for Data Science - Lectures | 2021
+https://lnkd.in/gazA9z2
+Latest Links
+Responsible Computer Vision : IEEE CVPR 2021 Workshop
+https://lnkd.in/gURCCHg
+Affective Understanding in Video: IEEE CVPR 2021 Workshop
+https://lnkd.in/gyjEHKN
+When Image Analysis Meets Natural Language Processing: A Case Study in Radiology: IEEE CVPR 2021 Tutorial
+https://lnkd.in/gVfYFKg
+New Frontiers in Data-Driven Autonomous Driving: IEEE CVPR 2021 Tutorial
+https://lnkd.in/gAaK4Qy
+International Challenge on Activity Recognition (ActivityNet): IEEE CVPR 2021 Workshop
+https://lnkd.in/g2EFB_T
+Medical Computer Vision: IEEE CVPR 2021 Workshop
+https://lnkd.in/giUSYP7
+International Workshop on Dynamic Scene Reconstruction: IEEE CVPR 2021 Workshop
+https://lnkd.in/gFRSQGm
+Workshop on Event-based Vision: IEEE CVPR 2021 Workshop
+https://lnkd.in/gdnNDYs
+New Frontiers in Data-Driven Autonomous Driving: IEEE CVPR 2021 Tutorial
+https://lnkd.in/gAaK4Qy
+Cross-View and Cross-Modal Visual Geo-Localization: IEEE CVPR 2021 Tutorial
+https://lnkd.in/gA-5Bc4
