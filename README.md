@@ -9,6 +9,7 @@ https://www.kaggle.com/c/walmart-recruiting-trip-type-classification
 https://www.kaggle.com/c/homesite-quote-conversion
 https://www.kaggle.com/c/rossmann-store-sales
 https://www.kaggle.com/c/telstra-recruiting-network
+https://www.kaggle.com/mdfahimreshm/bert-in-depth-understanding
 aaannd... of course, all the Santander ones.
 
 https://seaborn.pydata.org/generated/seaborn.regplot.html
