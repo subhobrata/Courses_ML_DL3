@@ -1,5 +1,9 @@
 # Courses_ML_DL3
 
+# MATH 122 Applied calculus Thomas Hamori
+https://www.youtube.com/channel/UCO9ePGcp8KV52tP0j5rgxkQ/playlists
+
+
 # Machine Learning for Healthcare
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
 https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j
