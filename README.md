@@ -1,4 +1,18 @@
 # Courses_ML_DL3
+https://dev.mrdbourke.com/tensorflow-deep-learning/
+https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
+https://ki-campus.org/index.php/courses/automl-luh2021?locale=en
+https://sebastianraschka.com/blog/2021/dl-course.html
+https://tvm.d2l.ai/chapter_gpu_schedules/index.html
+https://valdanchev.github.io/reproducible-data-science-python/intro.html
+http://www.doc.mmu.ac.uk/STAFF/S.Lynch/Python_for_A_Level_Mathematics_and_Beyond.html
+https://m.youtube.com/playlist?list=PLUgbVHjDharjx-JM53l37cAxx1NIlCz9-
+https://m.youtube.com/channel/UC7m0STJK9e4BbD-elwS4bNw/videos
+https://random-matrix-learning.github.io/#presentation1
+https://uni-tuebingen.de/de/203146
+http://www.matthewpratola.com/teaching/stat8810-fall-2017/
+
+
 
 # MATH 122 Applied calculus Thomas Hamori
 https://www.youtube.com/channel/UCO9ePGcp8KV52tP0j5rgxkQ/playlists
