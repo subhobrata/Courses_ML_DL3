@@ -1,5 +1,6 @@
 # Courses_ML_DL3
 
+https://atcold.github.io/pytorch-Deep-Learning/
 https://www.bradyneal.com/causal-inference-course
 https://dev.mrdbourke.com/tensorflow-deep-learning/
 https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
