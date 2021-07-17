@@ -1,5 +1,11 @@
 # Courses_ML_DL3
 
+# LxMLS Lisbon Machine Learning School
+https://www.youtube.com/c/LxMLSLisbonMachineLearningSchool/playlists
+
+# Half Sleeves
+https://www.youtube.com/channel/UCVBtWPeW8CMbf5y5JjHv_Yg/videos
+
 # cscsch
 https://www.youtube.com/user/cscsch/playlists
 
