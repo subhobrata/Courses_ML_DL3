@@ -4,6 +4,7 @@
 https://www.kaggle.com/abhinand05/catboost-a-deeper-dive
 https://www.kaggle.com/subbhashit/car-price-approaching-any-regression-problem-99?scriptVersionId=48279382
 https://www.kaggle.com/akashram/intro-to-boosting-models-categorical-data-nlp
+https://github.com/cpmech/gosl
 
 
 https://atcold.github.io/pytorch-Deep-Learning/
