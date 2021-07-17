@@ -1,5 +1,8 @@
 # Courses_ML_DL3
 
+# cscsch
+https://www.youtube.com/user/cscsch/playlists
+
 # Harvard Applied Math 205
 https://courses.seas.harvard.edu/courses/am205/
 https://www.youtube.com/channel/UC3KiLqlUjliL37fA-j4ctmQ/playlists
