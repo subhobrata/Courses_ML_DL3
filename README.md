@@ -1,5 +1,9 @@
 # Courses_ML_DL3
 
+# Harvard Applied Math 205
+https://courses.seas.harvard.edu/courses/am205/
+https://www.youtube.com/channel/UC3KiLqlUjliL37fA-j4ctmQ/playlists
+
 # Kaggle (practise Feature Engineering and learn from older comps/solutions.)
 https://www.kaggle.com/c/grupo-bimbo-inventory-demand
 https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/overview
