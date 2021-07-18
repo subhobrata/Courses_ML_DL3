@@ -1,5 +1,10 @@
 # Courses_ML_DL3
+
 https://twitter.com/PiyalBanik/status/1416612450376454144
+https://twitter.com/YairZick/status/1416238133893533697
+http://www.stat.columbia.edu/~gelman/
+https://avehtari.github.io/ROS-Examples/
+http://www.stat.columbia.edu/~gelman/arm/
 
 # civilengineeringprof
 https://www.youtube.com/user/civilengineeringprof/playlists
