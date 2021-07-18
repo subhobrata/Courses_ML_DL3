@@ -1,4 +1,5 @@
 # Courses_ML_DL3
+https://twitter.com/PiyalBanik/status/1416612450376454144
 
 # civilengineeringprof
 https://www.youtube.com/user/civilengineeringprof/playlists
