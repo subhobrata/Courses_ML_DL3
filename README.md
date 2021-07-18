@@ -1,5 +1,8 @@
 # Courses_ML_DL3
 
+# civilengineeringprof
+https://www.youtube.com/user/civilengineeringprof/playlists
+
 # Samuel S. Watson
 https://www.youtube.com/user/samuelswatson/playlists
 
