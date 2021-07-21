@@ -1,5 +1,9 @@
 # Courses_ML_DL3
 
+https://uvadlc.github.io/
+https://www.youtube.com/channel/UCpvn0ycxIA6Uf8W00OX3frQ/playlists
+https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
+
 https://twitter.com/PiyalBanik/status/1416612450376454144
 https://twitter.com/YairZick/status/1416238133893533697
 http://www.stat.columbia.edu/~gelman/
