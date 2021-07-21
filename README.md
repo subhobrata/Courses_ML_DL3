@@ -1,5 +1,8 @@
 # Courses_ML_DL3
 
+https://escape2020.github.io/school2021/
+https://www.youtube.com/playlist?list=PL5l3baTu76qPbYZlRK0Yhr4P_wsI-84Hn
+
 https://uvadlc.github.io/
 https://www.youtube.com/channel/UCpvn0ycxIA6Uf8W00OX3frQ/playlists
 https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
