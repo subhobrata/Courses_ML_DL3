@@ -1,5 +1,7 @@
 # Courses_ML_DL3
 
+https://botlnec.github.io/islp/
+
 https://www.youtube.com/channel/UC-yt9rh6xh9Ym0vtTIA105w/playlists
 
 https://escape2020.github.io/school2021/
