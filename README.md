@@ -4,6 +4,10 @@ https://botlnec.github.io/islp/
 
 https://www.youtube.com/channel/UC-yt9rh6xh9Ym0vtTIA105w/playlists
 
+
+# Introduction to Statistical Ideas and Methods
+https://www.youtube.com/channel/UC0O0KvBZk341KXsSFAYr_1g/videos
+
 https://escape2020.github.io/school2021/
 https://www.youtube.com/playlist?list=PL5l3baTu76qPbYZlRK0Yhr4P_wsI-84Hn
 
