@@ -1,5 +1,9 @@
 # Courses_ML_DL3
 
+https://people.eecs.berkeley.edu/~demmel/ma221_Spr20/
+https://arxiv.org/pdf/2006.04750.pdf
+Nonparametric Feature Impact and Importance
+
 https://botlnec.github.io/islp/
 
 https://www.youtube.com/channel/UC-yt9rh6xh9Ym0vtTIA105w/playlists
