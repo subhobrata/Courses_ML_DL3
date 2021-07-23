@@ -3,7 +3,10 @@
 # CS-E4710 - Machine Learning: Supervised Methods D, 08.09.2020-18.12.2020
 https://mycourses.aalto.fi/course/view.php?id=28204&section=3
 https://mycourses.aalto.fi/course/index.php?categoryid=35
-
+https://www.youtube.com/user/alexjung111/playlists
+https://www.youtube.com/playlist?list=PLrbn2dGrLJK9k0ekFun1vxE7CT--2VfJJ
+CS-EJ3211 - Machine Learning with Python D, 29.03.2021-04.06.2021
+https://mycourses.aalto.fi/course/view.php?id=30781
 
 https://people.eecs.berkeley.edu/~demmel/ma221_Spr20/
 https://arxiv.org/pdf/2006.04750.pdf
