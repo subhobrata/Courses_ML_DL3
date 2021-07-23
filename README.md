@@ -2,6 +2,8 @@
 
 # CS-E4710 - Machine Learning: Supervised Methods D, 08.09.2020-18.12.2020
 https://mycourses.aalto.fi/course/view.php?id=28204&section=3
+https://mycourses.aalto.fi/course/index.php?categoryid=35
+
 
 https://people.eecs.berkeley.edu/~demmel/ma221_Spr20/
 https://arxiv.org/pdf/2006.04750.pdf
