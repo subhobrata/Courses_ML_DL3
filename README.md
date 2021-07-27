@@ -1,5 +1,8 @@
 # Courses_ML_DL3
 
+https://ml-course.github.io/master/
+https://www.youtube.com/c/MachineLearningforEngineers/videos
+
 # CS-E4710 - Machine Learning: Supervised Methods D, 08.09.2020-18.12.2020
 https://mycourses.aalto.fi/course/view.php?id=28204&section=3
 https://mycourses.aalto.fi/course/index.php?categoryid=35
