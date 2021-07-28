@@ -1,5 +1,8 @@
 # Courses_ML_DL3
 
+# Foundation for Armenian Science and Technology (FAST)
+https://www.youtube.com/channel/UCFxztZtvgd1lIp1YYeTMEOQ/playlists
+
 # AMILE - Machine Learning with Christian Nabert
 https://www.youtube.com/channel/UCgQlZ6kefvYeHDe__YkFluA/playlists
 
