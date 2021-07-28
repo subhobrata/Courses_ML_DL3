@@ -1,5 +1,8 @@
 # Courses_ML_DL3
 
+# AMILE - Machine Learning with Christian Nabert
+https://www.youtube.com/channel/UCgQlZ6kefvYeHDe__YkFluA/playlists
+
 https://ml-course.github.io/master/
 https://www.youtube.com/c/MachineLearningforEngineers/videos
 
