@@ -7,6 +7,9 @@ https://harvard-iacs.github.io/2020-CS109A/lectures/lecture25/notebook/
 # Sanjoy Das
 https://www.youtube.com/user/orissabbsr/playlists
 
+# ADAMS Tutorial
+https://www.youtube.com/playlist?list=PLouxP1LEXV4mEdMWOOPXvZ3toE22JL1tf
+
 # Foundation for Armenian Science and Technology (FAST)
 https://www.youtube.com/channel/UCFxztZtvgd1lIp1YYeTMEOQ/playlists
 
