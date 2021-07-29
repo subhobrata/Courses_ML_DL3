@@ -16,7 +16,8 @@ https://mycourses.aalto.fi/course/view.php?id=28204&section=3
 https://mycourses.aalto.fi/course/index.php?categoryid=35
 https://www.youtube.com/user/alexjung111/playlists
 https://www.youtube.com/playlist?list=PLrbn2dGrLJK9k0ekFun1vxE7CT--2VfJJ
-CS-EJ3211 - Machine Learning with Python D, 29.03.2021-04.06.2021
+
+# CS-EJ3211 - Machine Learning with Python D, 29.03.2021-04.06.2021
 https://mycourses.aalto.fi/course/view.php?id=30781
 
 https://people.eecs.berkeley.edu/~demmel/ma221_Spr20/
@@ -25,6 +26,7 @@ Nonparametric Feature Impact and Importance
 
 https://botlnec.github.io/islp/
 
+# Data Science Conference
 https://www.youtube.com/channel/UC-yt9rh6xh9Ym0vtTIA105w/playlists
 
 
