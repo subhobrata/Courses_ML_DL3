@@ -1,6 +1,7 @@
 # Courses_ML_DL3
 
 https://harvard-iacs.github.io/2017-CS109A/labs/lab9/notebook/
+https://harvard-iacs.github.io/2018-CS109A/labs/lab-9/solutions/
 
 # Foundation for Armenian Science and Technology (FAST)
 https://www.youtube.com/channel/UCFxztZtvgd1lIp1YYeTMEOQ/playlists
