@@ -6,6 +6,8 @@ https://harvard-iacs.github.io/2020-CS109A/lectures/lecture25/notebook/
 https://stackoverflow.com/questions/57116146/why-whenever-i-refresh-my-random-forest-regressor-the-mse-and-mae-change-why-d?rq=1
 https://stats.stackexchange.com/questions/354336/what-happens-when-bootstrapping-isnt-used-in-sklearn-randomforestclassifier
 https://datascience.stackexchange.com/questions/43542/mean-absolute-error-in-random-forest-regression
+https://towardsdatascience.com/prettifying-partial-density-plots-in-python-1f7216937ff
+https://www.kaggle.com/dansbecker/learn-machine-learning
 
 # numeristical
 https://www.youtube.com/c/numeristical/videos
