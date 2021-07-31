@@ -13,6 +13,7 @@ https://stats.stackexchange.com/questions/218127/intuition-behind-pearson-correl
 https://arxiv.org/pdf/1610.09659.pdf
 https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full
 https://stackoverflow.com/questions/15810339/how-are-feature-importances-in-randomforestclassifier-determined
+https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#varimp
 
 # numeristical
 https://www.youtube.com/c/numeristical/videos
