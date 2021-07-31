@@ -8,6 +8,9 @@ https://stats.stackexchange.com/questions/354336/what-happens-when-bootstrapping
 https://datascience.stackexchange.com/questions/43542/mean-absolute-error-in-random-forest-regression
 https://towardsdatascience.com/prettifying-partial-density-plots-in-python-1f7216937ff
 https://www.kaggle.com/dansbecker/learn-machine-learning
+https://stats.stackexchange.com/questions/234177/how-to-detect-nonlinear-relationship
+https://stats.stackexchange.com/questions/218127/intuition-behind-pearson-correlation-co-variance-and-cosine-similarity
+https://arxiv.org/pdf/1610.09659.pdf
 
 # numeristical
 https://www.youtube.com/c/numeristical/videos
