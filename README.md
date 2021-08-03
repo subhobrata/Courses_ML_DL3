@@ -1,5 +1,6 @@
 # Courses_ML_DL3
 
+https://explained.ai/gradient-boosting/
 https://amueller.github.io/aml/index.html
 https://harvard-iacs.github.io/2017-CS109A/labs/lab9/notebook/
 https://harvard-iacs.github.io/2018-CS109A/labs/lab-9/solutions/
